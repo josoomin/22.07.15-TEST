@@ -6,7 +6,7 @@ namespace RPG3D
 {
     public class Slime : Unit
     {
-        public float _attackRange = 1.5f;
+        public float _attackRange = 0.0001f;
         public GameObject _enemyObj;
 
         private void Update()

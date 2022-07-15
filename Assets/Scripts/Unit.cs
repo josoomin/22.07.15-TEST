@@ -9,6 +9,7 @@ namespace RPG3D
     {
         public float _maxHP = 100;
         public float _hp = 0;
+        public Image _hpBar;
 
 
         // 공격 효과음
